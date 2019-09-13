@@ -1,13 +1,13 @@
 @import url('https://fonts.googleapis.com/css?family=Lacquer&display=swap');
 body {
-    background-image: url("cod11.png");
+    background-image: url("gameplay.png");
     background-repeat: no-repeat;
     background-size: 100%; 
     background-color: black;
-    color: orange;
+    color: blueviolet;
 }
 h1 {
-    background-color: rgba(0, 0, 0, 0.562);
+    background-color: rgba(150, 150, 150, 0.3);
     font-family: 'Lacquer', sans-serif;
 }
 p {
